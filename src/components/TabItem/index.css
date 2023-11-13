@@ -1,0 +1,20 @@
+.tab-btn {
+  outline: none;
+  cursor: pointer;
+  background: transparent;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.tab-btn1 {
+  border: none;
+  border-bottom: solid 5px #fec653;
+  color: #fec653;
+}
+
+.tab-btn2 {
+  border: none;
+  color: #ffffff;
+}

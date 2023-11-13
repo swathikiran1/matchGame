@@ -1,0 +1,19 @@
+.thumbnail-btn {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+.thumbnail-image {
+  height: 80px;
+  width: 80px;
+}
+
+@media (min-width: 768px) {
+  .thumbnail-image {
+    height: 110px;
+    width: 110px;
+    margin: 5px;
+  }
+}
